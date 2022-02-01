@@ -9,7 +9,7 @@ a shortcut for creating notion relations by date
 ## Download
 
 You can download this shortcut from here ->
-[Download link](https://www.icloud.com/shortcuts/27822de1f0d34df7a1e8d9a0565200c4)
+[Download link](https://www.icloud.com/shortcuts/1da6c66f2c554514aa80ca557f5ade66)
 
 Check my sample page for description -> [Sample notion page](https://hkob.notion.site/Shortcut-for-auto-create-relations-to-another-table-by-date-36d6346cfcdd48c59a1dcafcb74b5518)
 
@@ -21,7 +21,11 @@ Check my sample page for description -> [Sample notion page](https://hkob.notion
 
 ### 2. Obtain tasks whose relation property is empty
 
+(Ver 1.0 First release (2022/2/1)
 ![Obtain unsettled tasks](script02-obtain-unsettled-tasks.png)
+
+(Ver 1.1 Remove tasks that does not set date property (2022/2/1)
+![Obtain unsettled tasks](script02-obtain-unsettled-tasks-revised.png)
 
 ### 3. Generate a relation name from the date field of each task page
 
@@ -38,3 +42,8 @@ Check my sample page for description -> [Sample notion page](https://hkob.notion
 ### 6. Update the relation property of the task page
 
 ![Update relation property](script06-update-relation-property.png)
+
+## ChangeLog
+
+- Ver 1.1: Remove tasks that does not set date property (2022/2/1)
+- Ver 1.0: First release (2022/2/1)
